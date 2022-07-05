@@ -1,0 +1,10 @@
+.idea
+.pyc
+.vagrant
+.venv
+.vscode
+*.iml
+*.retry
+venv/
+**/keys/*
+/scratch_4.json
