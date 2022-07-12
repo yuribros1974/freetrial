@@ -1,0 +1,24 @@
+[
+  "name",
+  "email",
+  {
+    "name": "yuri",
+    "email": "yurib@iguazio.com"
+  },
+  {
+    "name": "yuri",
+    "email": "yurib@iguazio.com"
+  },
+  {
+    "password": "24Tango",
+    "email": "yurib@iguazio.com"
+  },
+  {
+    "password": "24Tango",
+    "email": "urib@iguazio.com"
+  },
+  {
+    "password": "24Tango",
+    "email": "urib@iguazio.com"
+  }
+]
