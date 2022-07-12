@@ -8,3 +8,4 @@
 venv/
 **/keys/*
 /scratch_4.json
+__pycache__/*
